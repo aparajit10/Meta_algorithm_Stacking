@@ -1,5 +1,5 @@
 # Meta_algorithm_Stacking
-Creating a meta algorithm to predict house prices 
+Creating a meta algorithm to predict house prices. The dataset is sourced from a Kaggle competition. 
 
 File descriptions
 
